@@ -1,0 +1,1 @@
+The code in this package (sh_code_generation.py and sh_formula_test.py) by Christoph Peters is marked CC0 1.0. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
